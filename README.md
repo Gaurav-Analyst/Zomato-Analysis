@@ -1,1 +1,1 @@
-# Zomato-Analysis
+# Zomato SQL Project
