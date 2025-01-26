@@ -1,4 +1,4 @@
-# Zomato SQL Project
+# Zomato SQL Project.
 
 create table customers
 (
